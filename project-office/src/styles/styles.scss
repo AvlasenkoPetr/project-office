@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald';
+    font-weight: 500;
+}
+
+:root {
+    --background-grey: #e0e0e0;
+    --background-white: #ffffff;
+    --background-footer: #9F9FED;
+    --purple-bright: #D4C1EC;
+    --purple-dark: #9F9FED;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: normal;
+}
+
+a,
+li,
+ul {
+    text-decoration: none;
+}
+
+input:focus {
+    outline: none;
+    border: 2px solid black;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}

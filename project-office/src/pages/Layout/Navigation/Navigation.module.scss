@@ -1,0 +1,13 @@
+.container {
+    width: 170px;
+    height: fit-content;
+    margin: 20px;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    background-color: var(--background-white);
+    border-radius: 15px;
+}

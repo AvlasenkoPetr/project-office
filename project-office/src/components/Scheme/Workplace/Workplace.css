@@ -1,0 +1,13 @@
+.workplace {
+    position: absolute;
+    z-index: 10;
+
+    width: 8.5%;
+
+    background-image: url(../../../assets/img/place.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    cursor: pointer;
+}
